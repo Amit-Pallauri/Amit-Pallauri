@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-# 💫 About Me:
 🔭 I am currently working on MERN/MEAN stack.<br>🧑🏽‍🤝‍🧑🏻 I am looking to collaborate on new age techs.<br>🌱 I am currently learning mobile application development.<br>💭 Ask me about JS and frontend technologies.<br>⚡Fun fact : I can't work with light mode themes.😅<br><br>
 
 
